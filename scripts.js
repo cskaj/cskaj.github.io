@@ -1,5 +1,8 @@
 function bgChange() {
   let el = document.querySelector("body");
-  el.style.background = "white";
-  el.style.color = "black";
+  if (el.style.background === "black"){
+    el.style.background = "white";
+    } else {
+      el.style.color = "black";
+    }
 }
