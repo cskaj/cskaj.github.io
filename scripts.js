@@ -1,4 +1,4 @@
 function bgChange() {
-  let el = document.querySelector("root");
+  let el = document.querySelector("body");
   el.style.background = "white";
 }
