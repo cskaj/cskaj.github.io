@@ -6,5 +6,5 @@ function bgChange() {
     } else {
       el.style.background = "black";
       el.style.color = "white";
-    }
+    };
 }
