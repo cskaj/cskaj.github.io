@@ -1,8 +1,10 @@
 * {
-  background: black;
-  color: white;
+  box-sizing: border-box;
+  margin: auto;
 }
 
 body {
+  background: black;
   text-align: center;
+  color: white;
 }
